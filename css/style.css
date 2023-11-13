@@ -1,0 +1,15 @@
+img {
+    max-width:50%;
+}
+
+.d-hidden {
+    display: none;
+}
+
+.active {
+    display: block;
+}
+
+button {
+    margin: 20px 20px;
+}
